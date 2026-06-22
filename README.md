@@ -99,7 +99,7 @@ This project applies **business analytics and data science** techniques to conve
 ## 🧑‍💼 About the Author
 
 **👨‍💻 Sk Noor Alam**
-2nd Year B.S. Data Science Student @ IIT Madras
+3rd Year B.S. Data Science Student @ IIT Madras
 📍 Kolkata, India
 
 * 💼 Aspiring **Business Analyst** & **Data Scientist**
